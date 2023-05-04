@@ -22,14 +22,14 @@ Se facilita la interfaz gráfica y el diagrama de base de datos del proyecto hot
 
 ## Diagrama de base de datos:
 
-![169529338-09a4d4c2-1b5a-41dc-b305-38498ebc29a8](https://[![](https://postimg.cc/4mp6g0wf)](https://postimg.cc/4mp6g0wf)-images.githubusercontent.com/28877424/235012931-b39efa85-1a4c-4c6d-b002-a9c494867f82.png)
+[![Captura-de-pantalla-2023-05-04-165845.png](https://i.postimg.cc/x1QyGfdq/Captura-de-pantalla-2023-05-04-165845.png)](https://postimg.cc/QH6Thr1r)
 
 ## Estructura del proyecto:
 ![Screenshot from 2023-04-27 18-44-26](https://user-images.githubusercontent.com/28877424/235013405-cb2ae7c4-97bc-4dd6-ac79-bdfc771a0c72.png)
 
 
 
-## Commits realizados:
+
 
 
 ## Interfaz implementada:
